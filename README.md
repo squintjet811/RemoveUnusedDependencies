@@ -19,4 +19,7 @@ for example:
 
 ```python3 remove_dependecies.py hello_world.cpp```
 
-
+## To Do List
+- Add an input option for build command for different compilier
+- Add an option to read a cmake file to read a list of file for a project
+- Add multi threading to improve the performance 
